@@ -1,3 +1,3 @@
-module github.com/x-kalux/go-basic-package-example
+module github.com/xkalux/go-basic-package-example
 
 go 1.20
